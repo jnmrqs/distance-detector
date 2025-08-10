@@ -10,7 +10,7 @@
 
 ---
 
-![Demonstração do Projeto](https://github.com/jnmrqs/distance-detector/assets/circuit.png)
+![Demonstração do Projeto](https://github.com/jnmrqs/distance-detector/blob/main/assets/circuit.png)
 
 ---
 
